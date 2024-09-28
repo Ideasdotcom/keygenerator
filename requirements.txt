@@ -36,8 +36,6 @@ PyYAML==6.0.2
 requests==2.32.3
 rich==13.8.1
 setuptools==75.1.0
-simple-websocket==1.0.0
-simple_chat @ file:///C:/Users/mbaug/comms
 stevedore==5.3.0
 urllib3==2.2.3
 websockets==13.1
